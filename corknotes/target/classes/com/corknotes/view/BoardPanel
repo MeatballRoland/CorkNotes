@@ -1,0 +1,8 @@
+package com.corkboard.view;
+
+
+public class BoardPanel extends JPanel {
+
+
+
+}
